@@ -1,0 +1,6 @@
+[book]
+authors = ["Reality Solutions"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Reality Solutions Documentation"
